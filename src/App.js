@@ -28,6 +28,10 @@ export default function App() {
         </ul>
       </div>
       <Stack />
+      <img
+        alt="Stack"
+        src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/stack.png"
+      />
     </div>
   );
 }
