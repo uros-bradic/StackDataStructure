@@ -1,2 +1,0 @@
-# StackDataStructure
-Created with CodeSandbox

@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+.row {
+  width: 100%;
+  margin: 10px;
+}
