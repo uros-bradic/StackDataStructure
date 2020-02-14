@@ -1,7 +1,7 @@
 {
   "name": "stack-data-structures",
   "version": "1.0.0",
-  "description": "Stack Data structures",
+  "description": "Stack data structure",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
